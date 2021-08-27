@@ -4,7 +4,7 @@ Sou bolsista integral através do Prouni na Athon Ensino Superior (Antiga ESAMC 
 
 Possuo domínio nas seguintes linguagens de programação: HTML5 (avançado), CSS (avançado), JavaScript (avançado), PHP (intermediário), Python (intermediário), C (intermediário), C# (básico) e Java/Java ME (básico). Já na parte de banco de dados, ainda só tive a oportunidade de trabalhar com o MySQL e o PostgreSQL.
 
-Além das linguagens, tenho bastante experiência no desenvolvimento de dashboards, aplicativos e automações através de ferramentas low-code como Power Apps, Power Automate e Power BI.
+Fora as linguagens, tenho bastante experiência no desenvolvimento de dashboards, aplicativos e automações através de ferramentas low-code como Power Apps, Power Automate e Power BI.
 
 Acesse o meu GitHub para ter acesso a alguns dos projetos que eu já desenvolvi para a minha faculdade e trabalho: https://github.com/MarlonDeOliveiraMeth
 
