@@ -1,16 +1,7 @@
-Olá, visitante! O meu nome é Marlon de Oliveira Meth, tenho 19 anos e sou apaixonado por tecnologia, programação e Star Wars.
+Olá visitante! O meu nome é Marlon de Oliveira Meth, tenho 20 anos, sou apaixonado por tecnologia, programação, Star Wars e estou aberto a oportunidades de estágio na área da minha faculdade.
 
-Atualmente estou cursando o terceiro semestre de Engenharia da Computação na ESAMC de Sorocaba durante o período noturno e estou aberto a oportunidades de estágio na área da minha faculdade.
+Sou bolsista integral através do Prouni na Athon Ensino Superior (Antiga ESAMC Sorocaba), onde atualmente estou cursando o quarto semestre de Engenharia da Computação durante o período noturno.
 
-Possuo conhecimento nas seguintes linguagens de programação:
-- Python (avançado)
-- HTML5 (avançado)
-- CSS (avançado)
-- JavaScript (avançado)
-- C/C++ (intermediário)
-- PHP (básico)
-- Java/Java ME (básico)
+Possuo domínio nas seguintes linguagens de programação: HTML5 (avançado), CSS (avançado), JavaScript (avançado), Python (intermediário), C (intermediário), C# (básico) e Java/Java ME (básico).
 
-Além disso, tenho domínio sobre os idiomas:
-- Inglês (avançado)
-- Espanhol (intermediário)
+Além disso, tenho conhecimentos sobre os idiomas Inglês (avançado) e Espanhol (intermediário).
