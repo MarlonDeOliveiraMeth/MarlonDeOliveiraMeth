@@ -6,6 +6,4 @@ Possuo domínio nas seguintes linguagens de programação: HTML5 (avançado), CS
 
 Fora as linguagens, tenho bastante experiência no desenvolvimento de dashboards, aplicativos e automações através de ferramentas low-code como Power Apps, Power Automate e Power BI.
 
-Acesse o meu GitHub para ter acesso a alguns dos projetos que eu já desenvolvi para a minha faculdade e trabalho: https://github.com/MarlonDeOliveiraMeth
-
 Além disso, tenho conhecimentos sobre os idiomas Inglês (avançado) e Espanhol (intermediário).
