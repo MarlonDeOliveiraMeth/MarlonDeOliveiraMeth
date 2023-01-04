@@ -1,7 +1,7 @@
 Olá, seja muito bem-vindo ao meu GitHub!  😊
 ===============================================================================================================================================
 
-O meu nome é Marlon de Oliveira Meth, tenho 21 anos e atualmente estou cursando o sexto semestre de Engenharia da Computação na faculdade Athon Ensino Superior de Sorocaba durante o período noturno. Eu sou um grande entusiasta da área de desenvolvimento de software, Big Data e apaixonado por matemática e Star Wars.
+O meu nome é Marlon de Oliveira Meth, eu sou estudante de Engenharia da Computação, estagiário e apaixonado por programação, matemática e Star Wars. Aqui você encontrará vários projetos que desenvolvi para empresas, universidades ou simplesmente por pura diversão!
 
 <p align="center">
   <img style="width: 50%;
