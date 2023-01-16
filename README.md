@@ -11,6 +11,6 @@ O meu nome é Marlon de Oliveira Meth, eu sou estudante de Engenharia da Computa
 ### Algumas das minhas skills:
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,nodejs,cs,php,html,css,mysql,firebase"/>
+    <img src="https://skillicons.dev/icons?i=py,js,nodejs,cs,php,html,css,mysql,firebase,mongodb"/>
   </a>
 </div>
