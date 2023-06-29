@@ -3,7 +3,7 @@ Olá, seja muito bem-vindo ao meu GitHub!  🪐
 
 <div align="center">
   <img style="width: 50%;
-  height: auto;" src="https://cdna.artstation.com/p/assets/images/images/025/789/352/original/pixel-jeff-galaxy-far-far-away.gif?1586928273"/>
+  height: auto;" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/ae0391c7c32e169840ebca7760d6669c-1664899590/stream%20set%20iup/create-pixel-art-characters-and-objects.gif"/>
 </div>
 
 <h3 align="center">Algumas das minhas skills</h3>
