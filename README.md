@@ -2,7 +2,7 @@ Olá, seja muito bem-vindo ao meu GitHub!  🪐
 ============================================================================================================================================
 
 <div align="center">
-  <img style="width: 100%;
+  <img style="width: 50%;
   height: auto;" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279"/>
 </div>
 
