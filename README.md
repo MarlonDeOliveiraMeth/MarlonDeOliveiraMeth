@@ -2,8 +2,8 @@ Olá, seja muito bem-vindo ao meu GitHub!  🪐
 ============================================================================================================================================
 
 <div align="center">
-  <img style="width: 50%;
-  height: auto;" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+  <img style="width: 100%;
+  height: auto;" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279"/>
 </div>
 
 <h3 align="center">Algumas das minhas skills</h3>
