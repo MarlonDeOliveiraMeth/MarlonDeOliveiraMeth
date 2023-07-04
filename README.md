@@ -1,12 +1,11 @@
-Olá, seja muito bem-vindo ao meu GitHub!  🪐
-============================================================================================================================================
+<h2 align="center">Olá, seja muito bem-vindo ao meu GitHub!  🪐</h2>
 
 <div align="center">
   <img style="width: 50%;
   height: auto;" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/ae0391c7c32e169840ebca7760d6669c-1664899590/stream%20set%20iup/create-pixel-art-characters-and-objects.gif"/>
 </div>
 
-<h3 align="center">Algumas das minhas skills</h3>
+<h4 align="center">Algumas das minhas skills:</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
