@@ -2,7 +2,7 @@
 
 <div align="center">
   <img style="width: 50%;
-  height: auto;" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/ae0391c7c32e169840ebca7760d6669c-1664899590/stream%20set%20iup/create-pixel-art-characters-and-objects.gif"/>
+  height: auto;" src="https://github.com/MarlonDeOliveiraMeth/MarlonDeOliveiraMeth/assets/82294838/67ba3f3b-ee05-4549-ab39-9d4e940be0e7"/>
 </div>
 
 <h4 align="center">Algumas das minhas skills:</h4>
