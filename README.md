@@ -1,6 +1,6 @@
 <h2 align="center">Olá, seja muito bem-vindo ao meu GitHub!</h2>
 
-<h4 align="center">Algumas das minhas skills:</h4>
+<h3 align="center">Algumas das minhas skills:</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
