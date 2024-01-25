@@ -5,7 +5,7 @@
   height: auto;" src="https://gomycode.com/wp-content/uploads/2023/09/39998-web-development.gif"/>
 </div>
 
-<h4 align="center">Algumas das minhas skills:</h4>
+<h3 align="center">Algumas das minhas skills:</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
