@@ -1,9 +1,13 @@
 <h2 align="center">Olá, seja muito bem-vindo ao meu GitHub!</h2>
 
+<br>
+
 <div align="center">
-  <img style="width: 50%;
-  height: auto;" src="https://gomycode.com/wp-content/uploads/2023/09/39998-web-development.gif"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MarlonDeOliveiraMeth&show_icons=true&hide_border=true&theme=transparent" height="180em" alt="GitHub Stat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonDeOliveiraMeth&layout=compact&hide_border=true&theme=transparent" height="180em" alt="Most Used Languages">
 </div>
+
+<br>
 
 <h3 align="center">Algumas das minhas skills:</h3>
 <div align="center">
