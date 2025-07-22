@@ -1,15 +1,4 @@
-<h2 align="center">Olá, seja muito bem-vindo ao meu GitHub!</h2>
-
-<br>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MarlonDeOliveiraMeth&show_icons=true&hide_border=true&theme=transparent" height="180em" alt="GitHub Stat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonDeOliveiraMeth&layout=compact&hide_border=true&theme=transparent" height="180em" alt="Most Used Languages">
-</div>
-
-<br>
-
-<h3 align="center">Algumas das minhas skills:</h3>
+<h3 align="center">Skills</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
