@@ -1,4 +1,4 @@
-skills = [
+mySkills = [
     ".NET",
     "Angular",
     "Node.js",
