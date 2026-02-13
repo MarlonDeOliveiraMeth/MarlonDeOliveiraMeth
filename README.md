@@ -1,14 +1,14 @@
 mySkills = [
-    ".NET",
-    "Angular",
-    "Node.js",
-    "Power BI",
-    "Power Apps",
-    "Power Automate",
     "Python",
     "HTML",
     "CSS",
     "JavaScript",
     "SQL",
-    "PHP"
+    "PHP",
+    "ASP.NET Core",
+    "Angular",
+    "Node.js",
+    "Power BI",
+    "Power Apps",
+    "Power Automate"
 ]
