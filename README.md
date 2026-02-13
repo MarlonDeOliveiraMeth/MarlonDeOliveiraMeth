@@ -10,5 +10,5 @@ mySkills = [
     "CSS",
     "JavaScript",
     "SQL",
-    "PHP",
+    "PHP"
 ]
