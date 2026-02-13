@@ -3,12 +3,12 @@ mySkills = [
     "Angular",
     "Node.js",
     "Power BI",
+    "Power Apps",
+    "Power Automate",
     "Python",
-    "Jupyter Notebook",
     "HTML",
     "CSS",
     "JavaScript",
-    "SQL Server",
+    "SQL",
     "PHP",
-    "MySQL"
 ]
